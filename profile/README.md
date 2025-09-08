@@ -132,4 +132,4 @@ While you can't directly import characters, the game references the events of **
 
 ## SEO Keywords
 
-baldur's gate 3, baldurs gate 3 download, baldurs gate 3 review, baldurs gate 3 multiplayer, baldurs gate 3 mac, rpg games, tactical combat rpg, baldurs gate series, faerun games, character creation baldurs gate 3, dungeons & dragons games
+baldur's gate 3, baldurs gate 3 download, baldurs gate 3 review, baldurs gate 3 multiplayer, baldurs gate 3 mac, rpg games, tactical combat rpg, baldurs gate series, faerun games, character creation baldurs gate 3, dungeons & dragons games, baldur's gate 3 best price, baldur's gate 3 d&d, baldur's gate 3 cloud gaming, baldur's gate 3 best price
