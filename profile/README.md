@@ -1,7 +1,7 @@
 # Baldur’s Gate 3 – Embark on an Epic RPG Adventure
 
 <div align="center">
-<img src="https://cdn.gracza.pl/galeria/gry13/200/896964406.jpg" alt="Baldur’s Gate 3 Game Scene" width="400">
+<img src="https://cdn.gracza.pl/galeria/gry13/200/896964406.jpg" alt="Baldur’s Gate 3 Game Scene" width="300">
 </div>
 
 ---
@@ -26,7 +26,7 @@ Experience a rich narrative with intricate dialogue, diverse characters, and bre
 
 ### Explore the Game World  
 <div align="center">
-  <img src="https://www.gamepressure.com/baldurs-gate-iii/gfx/word/1913366296.jpg" alt="Baldur's Gate 3 Game World" width="400">
+  <img src="https://www.gamepressure.com/baldurs-gate-iii/gfx/word/1913366296.jpg" alt="Baldur's Gate 3 Game World" width="600">
 </div>
 
 ---
@@ -43,7 +43,7 @@ Experience a rich narrative with intricate dialogue, diverse characters, and bre
 
 ### Character Creation  
 <div align="center">
-  <img src="https://deltiasgaming.com/wp-content/uploads/2023/06/Baldurs-Gate-3-Character-Background-and-Origin-Charcter-Creation-800x450.jpg" alt="Character Background and Creation" width="400">
+  <img src="https://deltiasgaming.com/wp-content/uploads/2023/06/Baldurs-Gate-3-Character-Background-and-Origin-Charcter-Creation-800x450.jpg" alt="Character Background and Creation" width="600">
 </div>
 
 ---
@@ -57,7 +57,7 @@ Baldur’s Gate 3 allows you to engage in deep dialogue with NPCs, making choice
 The turn-based combat system in **Baldur's Gate 3** is designed to challenge your strategic thinking. Use your character’s unique abilities, spells, and items to outsmart and overpower your enemies. Work with your allies to coordinate attacks, protect each other, and adapt to the ever-changing battlefield.
 
 <div align="center">
-  <img src="https://i.redd.it/yf968jqo2ijb1.jpg" alt="Baldur's Gate 3 Combat" width="400">
+  <img src="https://i.redd.it/yf968jqo2ijb1.jpg" alt="Baldur's Gate 3 Combat" width="600">
 </div>
 
 ---
